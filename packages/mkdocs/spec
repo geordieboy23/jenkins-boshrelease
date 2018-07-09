@@ -1,0 +1,12 @@
+---
+name: mkdocs
+
+dependencies:
+- libyaml
+- openssl
+- zlib
+- bzip2
+- libffi
+- python27
+- setuptools
+- pip 

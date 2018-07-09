@@ -12,6 +12,7 @@ packages:
 - terraform
 - golang
 - groovy
+- mkdocs
 
 consumes:
 - name: jenkins_master

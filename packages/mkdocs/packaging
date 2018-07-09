@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+# abort script on any command that exits with a non zero value
+set -e -x
+
+pip install mkdocs --install-option="--prefix=${BOSH_INSTALL_TARGET}"
